@@ -1,3 +1,4 @@
 this is a test txt file
+this is a dev branch content
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.
